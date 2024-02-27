@@ -1,1 +1,1 @@
-# Practica_4-Dashboard
+# Práctica 4 - Dashboard Random Walk + Path Length/MSD
